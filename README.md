@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Felipe Leal.
+- Front-end web developer and back-end studant
+- History teatcher & powerlifter
 
 
 <!---
