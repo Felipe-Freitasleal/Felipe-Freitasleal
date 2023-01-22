@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felipe Leal.
-- Front-end web developer and in process to became Full-stack 
+- Front-end web developer in process to became Full-stack 
 - History teatcher & powerlifter
 
 
