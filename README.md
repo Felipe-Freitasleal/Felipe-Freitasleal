@@ -1,10 +1,7 @@
 ## 👋 Hi, I’m Felipe Leal.
 
-//<div>
-//<picture>
-//<img src="https://github-readme-stats.vercel.app/api?username=Felipe-Freitasleal&hide=stars&theme=dark&show_icons=true&card_width=500" />
-//</picture>
-//</div>
+<div>
+</div>
 <picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Freitasleal&theme=dark&hide=shell&card_width=500" />
 </picture>
